@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26380'
     url: http://www.gutenberg.org/2009/agents/26380
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24294#---
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
 identifiers:
